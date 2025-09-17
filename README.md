@@ -1,0 +1,1 @@
+# zsh-notify-long-command
